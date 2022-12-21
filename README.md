@@ -6,4 +6,4 @@ This repository is to keep track of my learnings
 ReactDOM.render(<h1>Hello world</h1>, document.getElementById('app'));
 
 - you have to use className instead of class because it is reserved
-- self-closing tags need backward slash <img src="" />
+- self-closing tags need backward slash <img src= />
